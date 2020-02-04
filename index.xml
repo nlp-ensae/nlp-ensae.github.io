@@ -5,7 +5,7 @@
     <link>https://ben-mlr.github.io/</link>
       <atom:link href="https://ben-mlr.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ben-mlr.github.io/img/icon-192.png</url>
       <title>Academic</title>
@@ -159,6 +159,32 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ben-mlr.github.io/back/contact/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Course 1 </title>
+      <link>https://ben-mlr.github.io/materials/course1/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://ben-mlr.github.io/materials/course1/</guid>
+      <description>
+
+&lt;h1 id=&#34;the-why-and-what-of-nlp&#34;&gt;The Why and What of NLP&lt;/h1&gt;
+
+&lt;p&gt;This session is an introduction session to NLP. We will first motivate the uses and potential uses of NLP. Then, we will define Natural Language Processing.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Course 2 </title>
+      <link>https://ben-mlr.github.io/materials/course2/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://ben-mlr.github.io/materials/course2/</guid>
+      <description>
+
+&lt;h1 id=&#34;representing-text-into-vectors&#34;&gt;Representing text into vectors&lt;/h1&gt;
+
+&lt;p&gt;This course will covers representation learning technique for Natural Language Processing with a specific focus on word representation.&lt;/p&gt;
+</description>
     </item>
     
     <item>

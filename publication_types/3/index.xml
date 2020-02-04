@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
-    <link>https://ben-mlr.github.io/authors/admin/</link>
-      <atom:link href="https://ben-mlr.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
+    <title>3 | Academic</title>
+    <link>https://ben-mlr.github.io/publication_types/3/</link>
+      <atom:link href="https://ben-mlr.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ben-mlr.github.io/img/icon-192.png</url>
-      <title>Academic</title>
-      <link>https://ben-mlr.github.io/authors/admin/</link>
+      <title>3</title>
+      <link>https://ben-mlr.github.io/publication_types/3/</link>
     </image>
     
     <item>
