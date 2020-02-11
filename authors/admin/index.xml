@@ -40,12 +40,12 @@
 
 &lt;h1 id=&#34;representing-text-into-vectors&#34;&gt;Representing text into vectors&lt;/h1&gt;
 
-&lt;p&gt;This course will covers representation learning technique for Natural Language Processing with a specific focus on word representation. We start with feature based approach. We then study continuous approach based on co-occurence matrix. We end with more recent techniques such as word2vec.&lt;/p&gt;
+&lt;p&gt;This course will cover representation learning techniques for Natural Language Processing with a specific focus on word representation. We start with feature based approaches. We then study continuous approaches based using co-occurence matrices. We end with word embedding techniques such as word2vec.&lt;/p&gt;
 
 &lt;h2 id=&#34;lecture-files-nlp-ensae-lecture-2-pdf&#34;&gt;&lt;a href=&#34;https://ben-mlr.github.io/files/NLP-ENSAE-lecture-2.pdf&#34;&gt;Lecture&lt;/a&gt;&lt;/h2&gt;
 
-&lt;p&gt;##[Lab]#(&lt;a href=&#34;https://colab.research.google.com/drive/1-dmK-VfBvobIiEMoTWZyA_0ZbU07Oe5I&#34; target=&#34;_blank&#34;&gt;https://colab.research.google.com/drive/1-dmK-VfBvobIiEMoTWZyA_0ZbU07Oe5I&lt;/a&gt;)
-##[Lab correction]#(&lt;a href=&#34;https://colab.research.google.com/drive/1NX6qeh3P3DjTaxf6Yi5mEx-2Kx3fk6kg&#34; target=&#34;_blank&#34;&gt;https://colab.research.google.com/drive/1NX6qeh3P3DjTaxf6Yi5mEx-2Kx3fk6kg&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;##&lt;a href=&#34;https://colab.research.google.com/drive/1Iv1txqobmBh0ZrF8uV4nlbZQSOgbIloW&#34; target=&#34;_blank&#34;&gt;Lab&lt;/a&gt;
+##&lt;a href=&#34;https://colab.research.google.com/drive/1C5m4QmAn0YL4hlr1IZGR3PvWeAO3aSIj&#34; target=&#34;_blank&#34;&gt;Lab correction&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
