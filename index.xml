@@ -200,6 +200,25 @@
     </item>
     
     <item>
+      <title>Course 3 </title>
+      <link>https://ben-mlr.github.io/materials/course3/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://ben-mlr.github.io/materials/course3/</guid>
+      <description>
+
+&lt;h1 id=&#34;task-specific-modelling-of-text&#34;&gt;Task-specific Modelling of Text&lt;/h1&gt;
+
+&lt;p&gt;This course will cover a standart task-specific NLP pipeline. We will study preprocessing steps such as encoding and tokenization. We will then focus on sequence labelling illustrated by POS (Part-of-Speech) tagging and Name-Entity Recognition (NER). Finally, we will present standart evaluation metrics for classification tasks.&lt;/p&gt;
+
+&lt;h2 id=&#34;lecture-files-nlp-ensae-lecture-3-pdf&#34;&gt;&lt;a href=&#34;https://ben-mlr.github.io/files/NLP-ENSAE-lecture-3.pdf&#34;&gt;Lecture&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&#34;lab-https-drive-google-com-file-d-17ax8w77wxm7riq2yqv8ciazpcfk7nqxm-view-usp-sharing&#34;&gt;&lt;a href=&#34;https://drive.google.com/file/d/17aX8W77WXm7riQ2yQv8CiAzpcfk7NqXm/view?usp=sharing&#34; target=&#34;_blank&#34;&gt;Lab&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&#34;lab-correction-https-drive-google-com-file-d-1-juiqiidhf0wnmmsqc8uamt-aflynp5-view-usp-sharing&#34;&gt;&lt;a href=&#34;https://drive.google.com/file/d/1-_juiqiIDhF0wNMMsqC8UAmt-AFlyNp5/view?usp=sharing&#34; target=&#34;_blank&#34;&gt;Lab correction&lt;/a&gt;&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
       <title>ALMANACH Study Group</title>
       <link>https://ben-mlr.github.io/resources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
