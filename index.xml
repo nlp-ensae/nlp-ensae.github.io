@@ -219,6 +219,25 @@
     </item>
     
     <item>
+      <title>Course 4</title>
+      <link>https://ben-mlr.github.io/materials/course4/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://ben-mlr.github.io/materials/course4/</guid>
+      <description>
+
+&lt;h1 id=&#34;task-specific-modelling-of-text&#34;&gt;Task-specific Modelling of Text&lt;/h1&gt;
+
+&lt;p&gt;This lecture will present the most standart deep learning architectures to build Natural Language Processing models. We will cover Feed-Forward Neural Networks, Recurrent Neural Network and the Long-Short-Term Memory cell, Embedding layer and Attention Mechanisms. We will present these architectures in the context of Sequence Labelling tasks.&lt;/p&gt;
+
+&lt;h2 id=&#34;lecture-files-nlp-ensae-lecture-4-pdf&#34;&gt;&lt;a href=&#34;https://ben-mlr.github.io/files/NLP-ENSAE-lecture-4.pdf&#34;&gt;Lecture&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&#34;lab-https-drive-google-com-file-d-16c06qomt-r5swh-lote1lucgg25r1esr-view-usp-sharing&#34;&gt;&lt;a href=&#34;https://drive.google.com/file/d/16c06QOMt_R5sWh_lOTe1lUcGg25r1Esr/view?usp=sharing&#34; target=&#34;_blank&#34;&gt;Lab&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&#34;lab-correction-https-drive-google-com-file-d-1zjflrankkun2o3mjcqfqs3vkpbo2-zag-view-usp-sharing&#34;&gt;&lt;a href=&#34;https://drive.google.com/file/d/1ZJFLRANKkuN2O3MjCQfqS3vkpbO2_ZAg/view?usp=sharing&#34; target=&#34;_blank&#34;&gt;Lab correction&lt;/a&gt;&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
       <title>ALMANACH Study Group</title>
       <link>https://ben-mlr.github.io/resources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
