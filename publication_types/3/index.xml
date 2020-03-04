@@ -76,7 +76,7 @@
       <guid>https://ben-mlr.github.io/materials/course4/</guid>
       <description>
 
-&lt;h1 id=&#34;task-specific-modelling-of-text&#34;&gt;Task-specific Modelling of Text&lt;/h1&gt;
+&lt;h1 id=&#34;neural-natural-language-processing&#34;&gt;Neural Natural Language Processing&lt;/h1&gt;
 
 &lt;p&gt;This lecture will present the most standart deep learning architectures to build Natural Language Processing models. We will cover Feed-Forward Neural Networks, Recurrent Neural Network and the Long-Short-Term Memory cell, Embedding layer and Attention Mechanisms. We will present these architectures in the context of Sequence Labelling tasks.&lt;/p&gt;
 
