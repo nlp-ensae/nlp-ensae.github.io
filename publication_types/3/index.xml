@@ -88,5 +88,41 @@
 </description>
     </item>
     
+    <item>
+      <title>Course 5</title>
+      <link>https://ben-mlr.github.io/materials/course5/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://ben-mlr.github.io/materials/course5/</guid>
+      <description>
+
+&lt;h1 id=&#34;neural-natural-language-processing&#34;&gt;Neural Natural Language Processing&lt;/h1&gt;
+
+&lt;p&gt;This lecture will be about Language Modelling.&lt;/p&gt;
+
+&lt;h2 id=&#34;lecture-files-nlp-ensae-lecture-5-pdf&#34;&gt;&lt;a href=&#34;https://ben-mlr.github.io/files/NLP-ENSAE-lecture-5.pdf&#34;&gt;Lecture&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&#34;lab-https-colab-research-google-com-drive-1p4ajsu5lboznlp9hrolobb8guzg6yaxq&#34;&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1p4AjSu5lBoznlP9hrolOBb8gUzg6Yaxq&#34; target=&#34;_blank&#34;&gt;Lab&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&#34;lab-correction-https-colab-research-google-com-drive-18ry9uqvsvc9nyseiffcgnxifhhdlg5-z&#34;&gt;&lt;a href=&#34;https://colab.research.google.com/drive/18ry9UQVsvC9nYseIfFcgnxiFhHDLG5_z&#34; target=&#34;_blank&#34;&gt;Lab correction&lt;/a&gt;&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Course 6</title>
+      <link>https://ben-mlr.github.io/materials/course6/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://ben-mlr.github.io/materials/course6/</guid>
+      <description>
+
+&lt;h1 id=&#34;neural-natural-language-processing&#34;&gt;Neural Natural Language Processing&lt;/h1&gt;
+
+&lt;p&gt;This lecture will present Transfer Learning for Natural Language Processing. We will mainly focus on word embedding technique such as skip-gram and BERT.&lt;/p&gt;
+
+&lt;h2 id=&#34;lecture-files-nlp-ensae-lecture-6-pdf&#34;&gt;&lt;a href=&#34;https://ben-mlr.github.io/files/NLP-ENSAE-lecture-6.pdf&#34;&gt;Lecture&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&#34;lab-final-project-qa-session&#34;&gt;Lab : Final project QA session&lt;/h2&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
