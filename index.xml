@@ -170,7 +170,7 @@
 
 &lt;h1 id=&#34;the-why-and-what-of-nlp&#34;&gt;The Why and What of NLP&lt;/h1&gt;
 
-&lt;p&gt;This session is an introduction session to NLP. We first motivate the uses and potential uses of NLP. We then introduce some key linguistics concept for NLP. Finally, we describe NLP in three standart pipelines.&lt;/p&gt;
+&lt;p&gt;This session is an introduction session to NLP. We first motivate the uses and potential uses of NLP. We then introduce some key linguistic concepts for NLP. Finally, we describe NLP in three standart pipelines.&lt;/p&gt;
 
 &lt;h2 id=&#34;lecture-files-nlp-ensae-2020-lecture-1-pdf&#34;&gt;&lt;a href=&#34;https://ben-mlr.github.io/files/NLP-ENSAE-2020-lecture-1.pdf&#34;&gt;Lecture&lt;/a&gt;&lt;/h2&gt;
 
@@ -189,7 +189,7 @@
 
 &lt;h1 id=&#34;representing-text-into-vectors&#34;&gt;Representing text into vectors&lt;/h1&gt;
 
-&lt;p&gt;This course covers representation learning techniques for Natural Language Processing with a specific focus on word representation. We start with feature based approaches. We then study continuous approaches based using co-occurence matrices. We end with word embedding techniques such as word2vec.&lt;/p&gt;
+&lt;p&gt;This course covers representation learning techniques for Natural Language Processing with a specific focus on word representation. We start with feature based approaches. We then study continuous approaches using co-occurence matrices. We end with word embedding techniques such as word2vec.&lt;/p&gt;
 
 &lt;h2 id=&#34;lecture-files-nlp-ensae-2020-lecture-2-pdf&#34;&gt;&lt;a href=&#34;https://ben-mlr.github.io/files/NLP-ENSAE-2020-lecture-2.pdf&#34;&gt;Lecture&lt;/a&gt;&lt;/h2&gt;
 
@@ -208,7 +208,7 @@
 
 &lt;h1 id=&#34;task-specific-modeling-of-text&#34;&gt;Task-specific Modeling of Text&lt;/h1&gt;
 
-&lt;p&gt;This course covers a standart task-specific NLP pipeline. We present preprocessing steps such as encoding and tokenization. We then focus on sequence labelling illustrated by POS (Part-of-Speech) tagging and Name-Entity Recognition (NER). Finally, we present standard evaluation metrics for classification tasks.&lt;/p&gt;
+&lt;p&gt;This course covers a standart task-specific NLP pipeline. We present the preprocessing steps such as encoding and tokenization. We then focus on sequence labelling illustrated by POS (Part-of-Speech) tagging and Name-Entity Recognition (NER). Finally, we present the standard evaluation metrics for classification tasks.&lt;/p&gt;
 
 &lt;h2 id=&#34;lecture-files-nlp-ensae-2020-lecture-3-pdf&#34;&gt;&lt;a href=&#34;https://ben-mlr.github.io/files/NLP-ENSAE-2020-lecture-3.pdf&#34;&gt;Lecture&lt;/a&gt;&lt;/h2&gt;
 
@@ -265,7 +265,7 @@
 
 &lt;h1 id=&#34;transfer-learning-with-neural-modeling-for-nlp&#34;&gt;Transfer Learning with Neural Modeling for NLP&lt;/h1&gt;
 
-&lt;p&gt;Transfer Learning has become ubiquitious to build state-of-the-art NLP models. This lecture presents Transfer Learning focusing and how to do Transfer Learning in NLP using word embedding techniques such as skip-gram and BERT.&lt;/p&gt;
+&lt;p&gt;Transfer Learning has become ubiquitious to build state-of-the-art NLP models. This lecture presents Transfer Learning focusing on how to do Transfer Learning in NLP using word embedding techniques such as skip-gram and BERT.&lt;/p&gt;
 
 &lt;h2 id=&#34;lecture-files-nlp-ensae-2020-lecture-6-pdf&#34;&gt;&lt;a href=&#34;https://ben-mlr.github.io/files/NLP-ENSAE-2020-lecture-6.pdf&#34;&gt;Lecture&lt;/a&gt;&lt;/h2&gt;
 
