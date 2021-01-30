@@ -5,7 +5,7 @@
     <link>https://ben-mlr.github.io/authors/admin/</link>
       <atom:link href="https://ben-mlr.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ben-mlr.github.io/img/icon-192.png</url>
       <title>Academic</title>
@@ -14,9 +14,9 @@
     
     <item>
       <title>Session 1: The Why and What of NLP</title>
-      <link>https://ben-mlr.github.io/materials/course1/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://ben-mlr.github.io/materials/course1/</guid>
+      <link>https://ben-mlr.github.io/materials-backup-2020/course1/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://ben-mlr.github.io/materials-backup-2020/course1/</guid>
       <description>
 
 &lt;h1 id=&#34;the-why-and-what-of-nlp&#34;&gt;The Why and What of NLP&lt;/h1&gt;
@@ -32,10 +32,143 @@
     </item>
     
     <item>
+      <title>Session 1: The Why and What of NLP</title>
+      <link>https://ben-mlr.github.io/materials/course1/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://ben-mlr.github.io/materials/course1/</guid>
+      <description>
+
+&lt;h1 id=&#34;the-why-and-what-of-nlp&#34;&gt;The Why and What of NLP&lt;/h1&gt;
+
+&lt;p&gt;This session is an introduction session to NLP. We first motivate the uses and potential uses of NLP. We then introduce some key linguistic concepts for NLP. Finally, we describe NLP in three standart pipelines.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Session 2: Representing text into vectors </title>
       <link>https://ben-mlr.github.io/materials/course2/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://ben-mlr.github.io/materials/course2/</guid>
+      <description>
+
+&lt;h1 id=&#34;representing-text-into-vectors&#34;&gt;Representing text into vectors&lt;/h1&gt;
+
+&lt;p&gt;This course covers representation learning techniques for Natural Language Processing with a specific focus on word representation. We start with feature based approaches. We then study continuous approaches using co-occurence matrices. We end with word embedding techniques such as word2vec.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Session 3: Task-specific Modeling of Text</title>
+      <link>https://ben-mlr.github.io/materials/course3/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://ben-mlr.github.io/materials/course3/</guid>
+      <description>
+
+&lt;h1 id=&#34;task-specific-modeling-of-text&#34;&gt;Task-specific Modeling of Text&lt;/h1&gt;
+
+&lt;p&gt;This course covers a standart task-specific NLP pipeline. We present the preprocessing steps such as encoding and tokenization. We then focus on sequence labelling illustrated by POS (Part-of-Speech) tagging and Name-Entity Recognition (NER). Finally, we present the standard evaluation metrics for classification tasks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Session 4: Neural Natural Language Processing</title>
+      <link>https://ben-mlr.github.io/materials-backup-2020/course4/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://ben-mlr.github.io/materials-backup-2020/course4/</guid>
+      <description>
+
+&lt;h1 id=&#34;neural-natural-language-processing&#34;&gt;Neural Natural Language Processing&lt;/h1&gt;
+
+&lt;p&gt;This lecture presents the most standart deep learning architectures to build Natural Language Processing models. We consider Feed-Forward Neural Networks, Recurrent Neural Network and the Long-Short-Term Memory cell, Embedding layer and Attention Mechanisms. We present these architectures in the context of Sequence Labelling tasks.&lt;/p&gt;
+
+&lt;h2 id=&#34;lecture-files-nlp-ensae-2020-lecture-4-pdf&#34;&gt;&lt;a href=&#34;https://ben-mlr.github.io/files/NLP-ENSAE-2020-lecture-4.pdf&#34;&gt;Lecture&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&#34;lab-https-drive-google-com-file-d-16c06qomt-r5swh-lote1lucgg25r1esr-view-usp-sharing&#34;&gt;&lt;a href=&#34;https://drive.google.com/file/d/16c06QOMt_R5sWh_lOTe1lUcGg25r1Esr/view?usp=sharing&#34; target=&#34;_blank&#34;&gt;Lab&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&#34;lab-correction-https-drive-google-com-file-d-1zjflrankkun2o3mjcqfqs3vkpbo2-zag-view-usp-sharing&#34;&gt;&lt;a href=&#34;https://drive.google.com/file/d/1ZJFLRANKkuN2O3MjCQfqS3vkpbO2_ZAg/view?usp=sharing&#34; target=&#34;_blank&#34;&gt;Lab correction&lt;/a&gt;&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Session 4: Neural Natural Language Processing</title>
+      <link>https://ben-mlr.github.io/materials/course4/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://ben-mlr.github.io/materials/course4/</guid>
+      <description>
+
+&lt;h1 id=&#34;neural-natural-language-processing&#34;&gt;Neural Natural Language Processing&lt;/h1&gt;
+
+&lt;p&gt;This lecture presents the most standart deep learning architectures to build Natural Language Processing models. We consider Feed-Forward Neural Networks, Recurrent Neural Network and the Long-Short-Term Memory cell, Embedding layer and Attention Mechanisms. We present these architectures in the context of Sequence Labelling tasks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Session 5: Language Modeling</title>
+      <link>https://ben-mlr.github.io/materials-backup-2020/course5/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://ben-mlr.github.io/materials-backup-2020/course5/</guid>
+      <description>
+
+&lt;h1 id=&#34;language-modeling&#34;&gt;Language Modeling&lt;/h1&gt;
+
+&lt;p&gt;This lecture presents from a probabilistic perspective what is a language model and how to estimate a language model using statistical techniques and neural techniques.&lt;/p&gt;
+
+&lt;h2 id=&#34;lecture-files-nlp-ensae-2020-lecture-5-pdf&#34;&gt;&lt;a href=&#34;https://ben-mlr.github.io/files/NLP-ENSAE-2020-lecture-5.pdf&#34;&gt;Lecture&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&#34;lab-https-colab-research-google-com-drive-1p4ajsu5lboznlp9hrolobb8guzg6yaxq&#34;&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1p4AjSu5lBoznlP9hrolOBb8gUzg6Yaxq&#34; target=&#34;_blank&#34;&gt;Lab&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&#34;lab-correction-https-colab-research-google-com-drive-18ry9uqvsvc9nyseiffcgnxifhhdlg5-z&#34;&gt;&lt;a href=&#34;https://colab.research.google.com/drive/18ry9UQVsvC9nYseIfFcgnxiFhHDLG5_z&#34; target=&#34;_blank&#34;&gt;Lab correction&lt;/a&gt;&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Session 5: Language Modeling</title>
+      <link>https://ben-mlr.github.io/materials/course5/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://ben-mlr.github.io/materials/course5/</guid>
+      <description>
+
+&lt;h1 id=&#34;language-modeling&#34;&gt;Language Modeling&lt;/h1&gt;
+
+&lt;p&gt;This lecture presents from a probabilistic perspective what is a language model and how to estimate a language model using statistical techniques and neural techniques.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Session 6: Transfer Learning with Neural Modeling for NLP</title>
+      <link>https://ben-mlr.github.io/materials-backup-2020/course6/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://ben-mlr.github.io/materials-backup-2020/course6/</guid>
+      <description>
+
+&lt;h1 id=&#34;transfer-learning-with-neural-modeling-for-nlp&#34;&gt;Transfer Learning with Neural Modeling for NLP&lt;/h1&gt;
+
+&lt;p&gt;Transfer Learning has become ubiquitious to build state-of-the-art NLP models. This lecture presents Transfer Learning focusing on how to do Transfer Learning in NLP using word embedding techniques such as skip-gram and BERT.&lt;/p&gt;
+
+&lt;h2 id=&#34;lecture-files-nlp-ensae-2020-lecture-6-pdf&#34;&gt;&lt;a href=&#34;https://ben-mlr.github.io/files/NLP-ENSAE-2020-lecture-6.pdf&#34;&gt;Lecture&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&#34;lab-final-project-qa-session&#34;&gt;Lab : Final project QA session&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Session 6: Transfer Learning with Neural Modeling for NLP</title>
+      <link>https://ben-mlr.github.io/materials/course6/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://ben-mlr.github.io/materials/course6/</guid>
+      <description>
+
+&lt;h1 id=&#34;transfer-learning-with-neural-modeling-for-nlp&#34;&gt;Transfer Learning with Neural Modeling for NLP&lt;/h1&gt;
+
+&lt;p&gt;Transfer Learning has become ubiquitious to build state-of-the-art NLP models. This lecture presents Transfer Learning focusing on how to do Transfer Learning in NLP using word embedding techniques such as skip-gram and BERT.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Session 2: Representing text into vectors </title>
+      <link>https://ben-mlr.github.io/materials-backup-2020/course2/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://ben-mlr.github.io/materials-backup-2020/course2/</guid>
       <description>
 
 &lt;h1 id=&#34;representing-text-into-vectors&#34;&gt;Representing text into vectors&lt;/h1&gt;
@@ -52,9 +185,9 @@
     
     <item>
       <title>Session 3: Task-specific Modeling of Text</title>
-      <link>https://ben-mlr.github.io/materials/course3/</link>
+      <link>https://ben-mlr.github.io/materials-backup-2020/course3/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://ben-mlr.github.io/materials/course3/</guid>
+      <guid>https://ben-mlr.github.io/materials-backup-2020/course3/</guid>
       <description>
 
 &lt;h1 id=&#34;task-specific-modeling-of-text&#34;&gt;Task-specific Modeling of Text&lt;/h1&gt;
@@ -66,61 +199,6 @@
 &lt;h2 id=&#34;lab-https-drive-google-com-file-d-17ax8w77wxm7riq2yqv8ciazpcfk7nqxm-view-usp-sharing&#34;&gt;&lt;a href=&#34;https://drive.google.com/file/d/17aX8W77WXm7riQ2yQv8CiAzpcfk7NqXm/view?usp=sharing&#34; target=&#34;_blank&#34;&gt;Lab&lt;/a&gt;&lt;/h2&gt;
 
 &lt;h2 id=&#34;lab-correction-https-drive-google-com-file-d-1-juiqiidhf0wnmmsqc8uamt-aflynp5-view-usp-sharing&#34;&gt;&lt;a href=&#34;https://drive.google.com/file/d/1-_juiqiIDhF0wNMMsqC8UAmt-AFlyNp5/view?usp=sharing&#34; target=&#34;_blank&#34;&gt;Lab correction&lt;/a&gt;&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Session 4: Neural Natural Language Processing</title>
-      <link>https://ben-mlr.github.io/materials/course4/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://ben-mlr.github.io/materials/course4/</guid>
-      <description>
-
-&lt;h1 id=&#34;neural-natural-language-processing&#34;&gt;Neural Natural Language Processing&lt;/h1&gt;
-
-&lt;p&gt;This lecture presents the most standart deep learning architectures to build Natural Language Processing models. We consider Feed-Forward Neural Networks, Recurrent Neural Network and the Long-Short-Term Memory cell, Embedding layer and Attention Mechanisms. We present these architectures in the context of Sequence Labelling tasks.&lt;/p&gt;
-
-&lt;h2 id=&#34;lecture-files-nlp-ensae-2020-lecture-4-pdf&#34;&gt;&lt;a href=&#34;https://ben-mlr.github.io/files/NLP-ENSAE-2020-lecture-4.pdf&#34;&gt;Lecture&lt;/a&gt;&lt;/h2&gt;
-
-&lt;h2 id=&#34;lab-https-drive-google-com-file-d-16c06qomt-r5swh-lote1lucgg25r1esr-view-usp-sharing&#34;&gt;&lt;a href=&#34;https://drive.google.com/file/d/16c06QOMt_R5sWh_lOTe1lUcGg25r1Esr/view?usp=sharing&#34; target=&#34;_blank&#34;&gt;Lab&lt;/a&gt;&lt;/h2&gt;
-
-&lt;h2 id=&#34;lab-correction-https-drive-google-com-file-d-1zjflrankkun2o3mjcqfqs3vkpbo2-zag-view-usp-sharing&#34;&gt;&lt;a href=&#34;https://drive.google.com/file/d/1ZJFLRANKkuN2O3MjCQfqS3vkpbO2_ZAg/view?usp=sharing&#34; target=&#34;_blank&#34;&gt;Lab correction&lt;/a&gt;&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Session 5: Language Modeling</title>
-      <link>https://ben-mlr.github.io/materials/course5/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://ben-mlr.github.io/materials/course5/</guid>
-      <description>
-
-&lt;h1 id=&#34;language-modeling&#34;&gt;Language Modeling&lt;/h1&gt;
-
-&lt;p&gt;This lecture presents from a probabilistic perspective what is a language model and how to estimate a language model using statistical techniques and neural techniques.&lt;/p&gt;
-
-&lt;h2 id=&#34;lecture-files-nlp-ensae-2020-lecture-5-pdf&#34;&gt;&lt;a href=&#34;https://ben-mlr.github.io/files/NLP-ENSAE-2020-lecture-5.pdf&#34;&gt;Lecture&lt;/a&gt;&lt;/h2&gt;
-
-&lt;h2 id=&#34;lab-https-colab-research-google-com-drive-1p4ajsu5lboznlp9hrolobb8guzg6yaxq&#34;&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1p4AjSu5lBoznlP9hrolOBb8gUzg6Yaxq&#34; target=&#34;_blank&#34;&gt;Lab&lt;/a&gt;&lt;/h2&gt;
-
-&lt;h2 id=&#34;lab-correction-https-colab-research-google-com-drive-18ry9uqvsvc9nyseiffcgnxifhhdlg5-z&#34;&gt;&lt;a href=&#34;https://colab.research.google.com/drive/18ry9UQVsvC9nYseIfFcgnxiFhHDLG5_z&#34; target=&#34;_blank&#34;&gt;Lab correction&lt;/a&gt;&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Session 6: Transfer Learning with Neural Modeling for NLP</title>
-      <link>https://ben-mlr.github.io/materials/course6/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://ben-mlr.github.io/materials/course6/</guid>
-      <description>
-
-&lt;h1 id=&#34;transfer-learning-with-neural-modeling-for-nlp&#34;&gt;Transfer Learning with Neural Modeling for NLP&lt;/h1&gt;
-
-&lt;p&gt;Transfer Learning has become ubiquitious to build state-of-the-art NLP models. This lecture presents Transfer Learning focusing on how to do Transfer Learning in NLP using word embedding techniques such as skip-gram and BERT.&lt;/p&gt;
-
-&lt;h2 id=&#34;lecture-files-nlp-ensae-2020-lecture-6-pdf&#34;&gt;&lt;a href=&#34;https://ben-mlr.github.io/files/NLP-ENSAE-2020-lecture-6.pdf&#34;&gt;Lecture&lt;/a&gt;&lt;/h2&gt;
-
-&lt;h2 id=&#34;lab-final-project-qa-session&#34;&gt;Lab : Final project QA session&lt;/h2&gt;
 </description>
     </item>
     
