@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Academic</title>
+    <title>Authors | NLP course</title>
     <link>https://ben-mlr.github.io/authors/</link>
       <atom:link href="https://ben-mlr.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
@@ -25,8 +25,8 @@
 
 &lt;h2 id=&#34;ensae-2021&#34;&gt;ENSAE 2021&lt;/h2&gt;
 
-&lt;p&gt;Natural Language Processing is a field of Artificial Intelligence concerned with processing in a systematic way human languages. It is now a mainstream technology used in a great variety of products like &lt;em&gt;Voice Assistant&lt;/em&gt;, &lt;em&gt;Search Engines&lt;/em&gt;, &lt;em&gt;Recommander systems&lt;/em&gt;&amp;hellip;
-This course is an exhaustive introduction to NLP. We will cover the full processing pipeline, from preprocessing and representation learning to supervised task-specific learning.&lt;/p&gt;
+&lt;p&gt;Natural Language Processing is a field of Artificial Intelligence concerned with processing human languages in a systematic way. It is now a mainstream technology used in a great variety of products like &lt;em&gt;Voice Assistant&lt;/em&gt;, &lt;em&gt;Search Engines&lt;/em&gt;, &lt;em&gt;Recommander systems&lt;/em&gt;&amp;hellip;
+This course is an exhaustive introduction to NLP. We will cover the full NLP processing pipeline, from preprocessing and representation learning to supervised task-specific learning.&lt;/p&gt;
 </description>
     </item>
     

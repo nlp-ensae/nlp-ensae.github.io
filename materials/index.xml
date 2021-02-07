@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Course Material | Academic</title>
+    <title>Course Material | NLP course</title>
     <link>https://ben-mlr.github.io/materials/</link>
       <atom:link href="https://ben-mlr.github.io/materials/index.xml" rel="self" type="application/rss+xml" />
     <description>Course Material</description>
@@ -22,6 +22,10 @@
 &lt;h1 id=&#34;the-why-and-what-of-nlp&#34;&gt;The Why and What of NLP&lt;/h1&gt;
 
 &lt;p&gt;This session is an introduction session to NLP. We first motivate the uses and potential uses of NLP. We then introduce some key linguistic concepts for NLP. Finally, we describe NLP in three standart pipelines.&lt;/p&gt;
+
+&lt;h2 id=&#34;lecture-files-nlp-ensae-2021-lecture-1-pdf&#34;&gt;&lt;a href=&#34;https://ben-mlr.github.io/files/NLP-ENSAE-2021-lecture-1.pdf&#34;&gt;Lecture&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&#34;lab-https-colab-research-google-com-drive-1-l0k0j-25k2k-cd1td3nsbl3s68uogsn-usp-sharing&#34;&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1-L0K0J_25K2K-cD1tD3NsBL3s68UogSN?usp=sharing&#34; target=&#34;_blank&#34;&gt;Lab&lt;/a&gt;&lt;/h2&gt;
 </description>
     </item>
     
