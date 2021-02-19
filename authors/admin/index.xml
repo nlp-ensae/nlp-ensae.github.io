@@ -45,6 +45,8 @@
 &lt;h2 id=&#34;lecture-files-nlp-ensae-2021-lecture-1-pdf&#34;&gt;&lt;a href=&#34;https://ben-mlr.github.io/files/NLP-ENSAE-2021-lecture-1.pdf&#34;&gt;Lecture&lt;/a&gt;&lt;/h2&gt;
 
 &lt;h2 id=&#34;lab-https-colab-research-google-com-drive-1-l0k0j-25k2k-cd1td3nsbl3s68uogsn-usp-sharing&#34;&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1-L0K0J_25K2K-cD1tD3NsBL3s68UogSN?usp=sharing&#34; target=&#34;_blank&#34;&gt;Lab&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&#34;lab-correction-https-colab-research-google-com-drive-1-4oafhazgwnztb1catiepvk-xj6sunnp-usp-sharing&#34;&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1-4OAfhAZGWNzTB1CAtIEPvK-xJ6SunnP?usp=sharing&#34; target=&#34;_blank&#34;&gt;Lab Correction&lt;/a&gt;&lt;/h2&gt;
 </description>
     </item>
     
@@ -58,6 +60,12 @@
 &lt;h1 id=&#34;representing-text-into-vectors&#34;&gt;Representing text into vectors&lt;/h1&gt;
 
 &lt;p&gt;This course covers representation learning techniques for Natural Language Processing with a specific focus on word representation. We start with feature based approaches. We then study continuous approaches using co-occurence matrices. We end with word embedding techniques such as word2vec.&lt;/p&gt;
+
+&lt;h2 id=&#34;lecture-files-nlp-ensae-2021-lecture-2-pdf&#34;&gt;&lt;a href=&#34;https://ben-mlr.github.io/files/NLP-ENSAE-2021-lecture-2.pdf&#34;&gt;Lecture&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&#34;lab-https-drive-google-com-file-d-186km6os3jv3ek3apypmqfi5y3we2b3wt-view-usp-sharing&#34;&gt;&lt;a href=&#34;https://drive.google.com/file/d/186km6os3jv3Ek3APYPmQFi5Y3we2b3Wt/view?usp=sharing&#34; target=&#34;_blank&#34;&gt;Lab&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&#34;lab-correction-https-drive-google-com-file-d-1y9fc04hntspwmqjkk5yzjwwupdybzq9m-view-usp-sharing&#34;&gt;&lt;a href=&#34;https://drive.google.com/file/d/1Y9fC04hnTspwmqJkK5yZJWwUpDybzq9m/view?usp=sharing&#34; target=&#34;_blank&#34;&gt;Lab Correction&lt;/a&gt;&lt;/h2&gt;
 </description>
     </item>
     
