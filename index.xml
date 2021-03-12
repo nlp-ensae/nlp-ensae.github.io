@@ -228,6 +228,12 @@
 &lt;h1 id=&#34;task-specific-modeling-of-text&#34;&gt;Task-specific Modeling of Text&lt;/h1&gt;
 
 &lt;p&gt;This course covers a standart task-specific NLP pipeline. We present the preprocessing steps such as encoding and tokenization. We then focus on sequence labelling illustrated by POS (Part-of-Speech) tagging and Name-Entity Recognition (NER). Finally, we present the standard evaluation metrics for classification tasks.&lt;/p&gt;
+
+&lt;h2 id=&#34;lecture-files-nlp-ensae-2021-lecture-3-pdf&#34;&gt;&lt;a href=&#34;https://ben-mlr.github.io/files/NLP-ENSAE-2021-lecture-3.pdf&#34;&gt;Lecture&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&#34;lab-https-drive-google-com-file-d-1tkjq4qrabejlp44zfirdwi-auubqt8kh-view-usp-sharing&#34;&gt;&lt;a href=&#34;https://drive.google.com/file/d/1tkjQ4QraBEjLP44ZFIRdWi_auUbQT8kH/view?usp=sharing&#34; target=&#34;_blank&#34;&gt;Lab&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&#34;lab-correction-https-drive-google-com-file-d-1d18-uyyaf8mscg5f49fr87ewkvkh3jad-view-usp-sharing&#34;&gt;&lt;a href=&#34;https://drive.google.com/file/d/1D18-UYyAF8mScG5F49fr87EWkVkH3JaD/view?usp=sharing&#34; target=&#34;_blank&#34;&gt;Lab Correction&lt;/a&gt;&lt;/h2&gt;
 </description>
     </item>
     
@@ -260,6 +266,12 @@
 &lt;h1 id=&#34;neural-natural-language-processing&#34;&gt;Neural Natural Language Processing&lt;/h1&gt;
 
 &lt;p&gt;This lecture presents the most standart deep learning architectures to build Natural Language Processing models. We consider Feed-Forward Neural Networks, Recurrent Neural Network and the Long-Short-Term Memory cell, Embedding layer and Attention Mechanisms. We present these architectures in the context of Sequence Labelling tasks.&lt;/p&gt;
+
+&lt;h2 id=&#34;lecture-files-nlp-ensae-2021-lecture-4-pdf&#34;&gt;&lt;a href=&#34;https://ben-mlr.github.io/files/NLP-ENSAE-2021-lecture-4.pdf&#34;&gt;Lecture&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&#34;lab-https-drive-google-com-file-d-1tfykmid04xgmdhecw1rbo86t4kzmggpv-view-usp-sharing&#34;&gt;&lt;a href=&#34;https://drive.google.com/file/d/1TFYkMiD04xGMDHEcw1RBO86t4KZMGGPv/view?usp=sharing&#34; target=&#34;_blank&#34;&gt;Lab&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&#34;lab-correction-https-drive-google-com-file-d-1fenhgud2vttft7pinvzsv-7sppbdq7ny-view-usp-sharing&#34;&gt;&lt;a href=&#34;https://drive.google.com/file/d/1FeNHGUd2VTTfT7PinvzsV-7sPpbdQ7NY/view?usp=sharing&#34; target=&#34;_blank&#34;&gt;Lab Correction&lt;/a&gt;&lt;/h2&gt;
 </description>
     </item>
     
@@ -292,6 +304,12 @@
 &lt;h1 id=&#34;language-modeling&#34;&gt;Language Modeling&lt;/h1&gt;
 
 &lt;p&gt;This lecture presents from a probabilistic perspective what is a language model and how to estimate a language model using statistical techniques and neural techniques.&lt;/p&gt;
+
+&lt;h2 id=&#34;lecture-files-nlp-ensae-2021-lecture-5-pdf&#34;&gt;&lt;a href=&#34;https://ben-mlr.github.io/files/NLP-ENSAE-2021-lecture-5.pdf&#34;&gt;Lecture&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&#34;lab-https-colab-research-google-com-drive-1goe5ql9tdu17e9lvbwk0nmbgf4yhoj7t-usp-sharing&#34;&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1GoE5QL9tDu17E9lVbwK0nMBgF4YhoJ7t?usp=sharing&#34; target=&#34;_blank&#34;&gt;Lab&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&#34;lab-correction-https-colab-research-google-com-drive-17qcltinik1ehbgus7gzqrsduiylxlccu-usp-sharing&#34;&gt;&lt;a href=&#34;https://colab.research.google.com/drive/17qCLtINIk1EhBgUs7gzqrsDUIylXlcCu?usp=sharing&#34; target=&#34;_blank&#34;&gt;Lab Correction&lt;/a&gt;&lt;/h2&gt;
 </description>
     </item>
     
