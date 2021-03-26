@@ -339,7 +339,11 @@
 
 &lt;h1 id=&#34;transfer-learning-with-neural-modeling-for-nlp&#34;&gt;Transfer Learning with Neural Modeling for NLP&lt;/h1&gt;
 
-&lt;p&gt;Transfer Learning has become ubiquitious to build state-of-the-art NLP models. This lecture presents Transfer Learning focusing on how to do Transfer Learning in NLP using word embedding techniques such as skip-gram and BERT.&lt;/p&gt;
+&lt;p&gt;Transfer Learning has become ubiquitious to build state-of-the-art NLP models. This lecture presents Transfer Learning focusing on how to apply Transfer Learning in NLP starting with static word embedding techniques such as skip-gram followed by the BERT model.&lt;/p&gt;
+
+&lt;h2 id=&#34;lecture-files-nlp-ensae-2021-lecture-6-pdf&#34;&gt;&lt;a href=&#34;https://ben-mlr.github.io/files/NLP-ENSAE-2021-lecture-6.pdf&#34;&gt;Lecture&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&#34;lab-q-a-session-about-the-final-project&#34;&gt;Lab Q&amp;amp;A session about the final project&lt;/h2&gt;
 </description>
     </item>
     
