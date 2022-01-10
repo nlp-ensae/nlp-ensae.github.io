@@ -25,29 +25,3 @@ header:
 #### Gaël Guibon, Telecom Paris	
 #### Ghazi Felhi, Université Paris 13   	
 
-
-## Student's Projects 2020
-
-Students were evaluated based on coding projects. The instructions can be found here [[instructions]](https://docs.google.com/document/d/1iw-_W_gz8rW7psk214OAy4geSikIagwQiRM9RSGQ3sw/edit?usp=sharing)  
-
-
-
-
-| Project Name                          | Authors                        |
-|--------------------------------|--------------------------------|
-| [Amazon Alexa Reviews Sentiment Analysis](https://github.com/silvesray/sharing-nlp-project/tree/master) | Melan Sekoua |
-| Test | M.    |
-| Test | M.    |
-| Test | M.    |
-| Test | M.    |
-| Test | M.    |
-| Test | M.    |
-| Test | M.    |
-| Test | M.    |
-| Test | M.    |
-| Test | M.    |
-| Test | M.    |
-| Test | M.    |
-| Test | M.    |
-
-
