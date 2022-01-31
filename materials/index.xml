@@ -5,7 +5,7 @@
     <link>https://ben-mlr.github.io/materials/</link>
       <atom:link href="https://ben-mlr.github.io/materials/index.xml" rel="self" type="application/rss+xml" />
     <description>Course Material</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ben-mlr.github.io/img/icon-192.png</url>
       <title>Course Material</title>
@@ -13,68 +13,24 @@
     </image>
     
     <item>
-      <title>Session 1: The Why and What of NLP</title>
+      <title>Lecture 1: The Basics of NLP</title>
       <link>https://ben-mlr.github.io/materials/course1/</link>
-      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
       <guid>https://ben-mlr.github.io/materials/course1/</guid>
-      <description>
-
-&lt;h1 id=&#34;the-why-and-what-of-nlp&#34;&gt;The Why and What of NLP&lt;/h1&gt;
+      <description>&lt;p&gt;In this lecture, we will introduce what is Natural Language Processing. We will introduce some core linguistics concepts to describe why NLP is challenging from a Machine Learning perspective. We will then describe the general modeling framework as well as an overview of NLP tasks. We will conclude with practical guidelines.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Session 2: Representing text into vectors </title>
       <link>https://ben-mlr.github.io/materials/course2/</link>
-      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
       <guid>https://ben-mlr.github.io/materials/course2/</guid>
       <description>
 
 &lt;h1 id=&#34;representing-text-into-vectors&#34;&gt;Representing text into vectors&lt;/h1&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Session 3: Task-specific Modeling of Text</title>
-      <link>https://ben-mlr.github.io/materials/course3/</link>
-      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://ben-mlr.github.io/materials/course3/</guid>
-      <description>
 
-&lt;h1 id=&#34;task-specific-modeling-of-text&#34;&gt;Task-specific Modeling of Text&lt;/h1&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Session 4: Neural Natural Language Processing</title>
-      <link>https://ben-mlr.github.io/materials/course4/</link>
-      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://ben-mlr.github.io/materials/course4/</guid>
-      <description>
-
-&lt;h1 id=&#34;neural-natural-language-processing&#34;&gt;Neural Natural Language Processing&lt;/h1&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Session 5: Language Modeling</title>
-      <link>https://ben-mlr.github.io/materials/course5/</link>
-      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://ben-mlr.github.io/materials/course5/</guid>
-      <description>
-
-&lt;h1 id=&#34;language-modeling&#34;&gt;Language Modeling&lt;/h1&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Session 6: Transfer Learning with Neural Modeling for NLP</title>
-      <link>https://ben-mlr.github.io/materials/course6/</link>
-      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://ben-mlr.github.io/materials/course6/</guid>
-      <description>
-
-&lt;h1 id=&#34;transfer-learning-with-neural-modeling-for-nlp&#34;&gt;Transfer Learning with Neural Modeling for NLP&lt;/h1&gt;
+&lt;p&gt;The first step when we do NLP is to represent tokens, sentences, documents into data structure that can useful in practice. For this purpose, we will present 3 main approaches: Hand-Crafted Representations of Text, Count-Based Representation of text, and Prediction-based representation of text.&lt;/p&gt;
 </description>
     </item>
     

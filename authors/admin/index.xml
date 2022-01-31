@@ -51,17 +51,6 @@
     </item>
     
     <item>
-      <title>Session 1: The Why and What of NLP</title>
-      <link>https://ben-mlr.github.io/materials/course1/</link>
-      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://ben-mlr.github.io/materials/course1/</guid>
-      <description>
-
-&lt;h1 id=&#34;the-why-and-what-of-nlp&#34;&gt;The Why and What of NLP&lt;/h1&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Session 2: Representing text into vectors </title>
       <link>https://ben-mlr.github.io/materials-backup-2021/course2/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
@@ -81,13 +70,13 @@
     </item>
     
     <item>
-      <title>Session 2: Representing text into vectors </title>
-      <link>https://ben-mlr.github.io/materials/course2/</link>
+      <title>Session 3: Task-specific Modeling of Text</title>
+      <link>https://ben-mlr.github.io/materials-backup-2021/-course3/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://ben-mlr.github.io/materials/course2/</guid>
+      <guid>https://ben-mlr.github.io/materials-backup-2021/-course3/</guid>
       <description>
 
-&lt;h1 id=&#34;representing-text-into-vectors&#34;&gt;Representing text into vectors&lt;/h1&gt;
+&lt;h1 id=&#34;task-specific-modeling-of-text&#34;&gt;Task-specific Modeling of Text&lt;/h1&gt;
 </description>
     </item>
     
@@ -107,17 +96,6 @@
 &lt;h2 id=&#34;lab-https-drive-google-com-file-d-1tkjq4qrabejlp44zfirdwi-auubqt8kh-view-usp-sharing&#34;&gt;&lt;a href=&#34;https://drive.google.com/file/d/1tkjQ4QraBEjLP44ZFIRdWi_auUbQT8kH/view?usp=sharing&#34; target=&#34;_blank&#34;&gt;Lab&lt;/a&gt;&lt;/h2&gt;
 
 &lt;h2 id=&#34;lab-correction-https-drive-google-com-file-d-1d18-uyyaf8mscg5f49fr87ewkvkh3jad-view-usp-sharing&#34;&gt;&lt;a href=&#34;https://drive.google.com/file/d/1D18-UYyAF8mScG5F49fr87EWkVkH3JaD/view?usp=sharing&#34; target=&#34;_blank&#34;&gt;Lab Correction&lt;/a&gt;&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Session 3: Task-specific Modeling of Text</title>
-      <link>https://ben-mlr.github.io/materials/course3/</link>
-      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://ben-mlr.github.io/materials/course3/</guid>
-      <description>
-
-&lt;h1 id=&#34;task-specific-modeling-of-text&#34;&gt;Task-specific Modeling of Text&lt;/h1&gt;
 </description>
     </item>
     
@@ -142,6 +120,17 @@
     
     <item>
       <title>Session 4: Neural Natural Language Processing</title>
+      <link>https://ben-mlr.github.io/materials-backup-2021/-course4/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://ben-mlr.github.io/materials-backup-2021/-course4/</guid>
+      <description>
+
+&lt;h1 id=&#34;neural-natural-language-processing&#34;&gt;Neural Natural Language Processing&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Session 4: Neural Natural Language Processing</title>
       <link>https://ben-mlr.github.io/materials-backup-2021/course4/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://ben-mlr.github.io/materials-backup-2021/course4/</guid>
@@ -156,17 +145,6 @@
 &lt;h2 id=&#34;lab-https-drive-google-com-file-d-1tfykmid04xgmdhecw1rbo86t4kzmggpv-view-usp-sharing&#34;&gt;&lt;a href=&#34;https://drive.google.com/file/d/1TFYkMiD04xGMDHEcw1RBO86t4KZMGGPv/view?usp=sharing&#34; target=&#34;_blank&#34;&gt;Lab&lt;/a&gt;&lt;/h2&gt;
 
 &lt;h2 id=&#34;lab-correction-https-drive-google-com-file-d-1fenhgud2vttft7pinvzsv-7sppbdq7ny-view-usp-sharing&#34;&gt;&lt;a href=&#34;https://drive.google.com/file/d/1FeNHGUd2VTTfT7PinvzsV-7sPpbdQ7NY/view?usp=sharing&#34; target=&#34;_blank&#34;&gt;Lab Correction&lt;/a&gt;&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Session 4: Neural Natural Language Processing</title>
-      <link>https://ben-mlr.github.io/materials/course4/</link>
-      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://ben-mlr.github.io/materials/course4/</guid>
-      <description>
-
-&lt;h1 id=&#34;neural-natural-language-processing&#34;&gt;Neural Natural Language Processing&lt;/h1&gt;
 </description>
     </item>
     
@@ -191,6 +169,17 @@
     
     <item>
       <title>Session 5: Language Modeling</title>
+      <link>https://ben-mlr.github.io/materials-backup-2021/-course5/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://ben-mlr.github.io/materials-backup-2021/-course5/</guid>
+      <description>
+
+&lt;h1 id=&#34;language-modeling&#34;&gt;Language Modeling&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Session 5: Language Modeling</title>
       <link>https://ben-mlr.github.io/materials-backup-2021/course5/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://ben-mlr.github.io/materials-backup-2021/course5/</guid>
@@ -205,17 +194,6 @@
 &lt;h2 id=&#34;lab-https-colab-research-google-com-drive-1gwtmklbq1p-pjylstk7w95ysejtre33e-usp-sharing&#34;&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1GwTMkLBQ1P_PjYLSTk7w95ysEjTRE33e?usp=sharing&#34; target=&#34;_blank&#34;&gt;Lab&lt;/a&gt;&lt;/h2&gt;
 
 &lt;h2 id=&#34;lab-correction-https-colab-research-google-com-drive-17qcltinik1ehbgus7gzqrsduiylxlccu-usp-sharing&#34;&gt;&lt;a href=&#34;https://colab.research.google.com/drive/17qCLtINIk1EhBgUs7gzqrsDUIylXlcCu?usp=sharing&#34; target=&#34;_blank&#34;&gt;Lab Correction&lt;/a&gt;&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Session 5: Language Modeling</title>
-      <link>https://ben-mlr.github.io/materials/course5/</link>
-      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://ben-mlr.github.io/materials/course5/</guid>
-      <description>
-
-&lt;h1 id=&#34;language-modeling&#34;&gt;Language Modeling&lt;/h1&gt;
 </description>
     </item>
     
@@ -238,6 +216,17 @@
     
     <item>
       <title>Session 6: Transfer Learning with Neural Modeling for NLP</title>
+      <link>https://ben-mlr.github.io/materials-backup-2021/-course6/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://ben-mlr.github.io/materials-backup-2021/-course6/</guid>
+      <description>
+
+&lt;h1 id=&#34;transfer-learning-with-neural-modeling-for-nlp&#34;&gt;Transfer Learning with Neural Modeling for NLP&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Session 6: Transfer Learning with Neural Modeling for NLP</title>
       <link>https://ben-mlr.github.io/materials-backup-2021/course6/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://ben-mlr.github.io/materials-backup-2021/course6/</guid>
@@ -250,17 +239,6 @@
 &lt;h2 id=&#34;lecture-files-nlp-ensae-2021-lecture-6-pdf&#34;&gt;&lt;a href=&#34;https://ben-mlr.github.io/files/NLP-ENSAE-2021-lecture-6.pdf&#34;&gt;Lecture&lt;/a&gt;&lt;/h2&gt;
 
 &lt;h2 id=&#34;lab-q-a-session-about-the-final-project&#34;&gt;Lab Q&amp;amp;A session about the final project&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Session 6: Transfer Learning with Neural Modeling for NLP</title>
-      <link>https://ben-mlr.github.io/materials/course6/</link>
-      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://ben-mlr.github.io/materials/course6/</guid>
-      <description>
-
-&lt;h1 id=&#34;transfer-learning-with-neural-modeling-for-nlp&#34;&gt;Transfer Learning with Neural Modeling for NLP&lt;/h1&gt;
 </description>
     </item>
     
