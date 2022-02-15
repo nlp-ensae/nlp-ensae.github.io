@@ -191,17 +191,8 @@
       <description>
 
 &lt;h1 id=&#34;deep-learning-methods-for-nlp&#34;&gt;Deep Learning Methods for NLP&lt;/h1&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Session 4: Language Modeling</title>
-      <link>https://ben-mlr.github.io/materials/course4-back/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://ben-mlr.github.io/materials/course4-back/</guid>
-      <description>
 
-&lt;h1 id=&#34;language-modeling&#34;&gt;Language Modeling&lt;/h1&gt;
+&lt;p&gt;This lecture presents Deep Learning techniques used in NLP. We cover the design and training principles. We present the Multi-Layer-Perceptron (MLP), Recurrent Architectures (RNN and LSTM) and the transformer architecture.&lt;/p&gt;
 </description>
     </item>
     
@@ -213,6 +204,8 @@
       <description>
 
 &lt;h1 id=&#34;language-modeling&#34;&gt;Language Modeling&lt;/h1&gt;
+
+&lt;p&gt;Language modeling is one of the most challenging and useful tasks in NLP. In this lecture, we define what is language modeling and present how to do language modeling with Deep Learning architectures.&lt;/p&gt;
 </description>
     </item>
     
@@ -223,7 +216,9 @@
       <guid>https://ben-mlr.github.io/materials/course5/</guid>
       <description>
 
-&lt;h1 id=&#34;language-modeling&#34;&gt;Language Modeling&lt;/h1&gt;
+&lt;h1 id=&#34;sequence-labeling-classification&#34;&gt;Sequence Labeling &amp;amp; Classification&lt;/h1&gt;
+
+&lt;p&gt;Given an input sequence of tokens, sequence Labeling consists in classifying each token by assigning it a label. In this lecture, after illustrating sequence labeling &amp;amp; classification with POS tagging, NER and Question Answering, we present how to do sequence labeling with Recurrent based models and transformer based models.&lt;/p&gt;
 </description>
     </item>
     
@@ -234,7 +229,9 @@
       <guid>https://ben-mlr.github.io/materials/course6/</guid>
       <description>
 
-&lt;h1 id=&#34;language-modeling&#34;&gt;Language Modeling&lt;/h1&gt;
+&lt;h1 id=&#34;sequence-generation&#34;&gt;Sequence Generation&lt;/h1&gt;
+
+&lt;p&gt;Many NLP tasks, such as Machine Translation or Summarization, require to predict sequences of tokens. In this lecture, we introduce the encoder-decoder and show how it can be used for sequence generation tasks.&lt;/p&gt;
 </description>
     </item>
     
