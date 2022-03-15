@@ -13,18 +13,7 @@
     </image>
     
     <item>
-      <title>Lab 1: Introduction to textual data with Python</title>
-      <link>https://ben-mlr.github.io/materials/lab-1/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://ben-mlr.github.io/materials/lab-1/</guid>
-      <description>
-
-&lt;h1 id=&#34;introduction-to-textual-data-with-python&#34;&gt;Introduction to textual data with python&lt;/h1&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Lecture 1: The Basics of NLP</title>
+      <title>(1) Lecture 1: The Basics of NLP</title>
       <link>https://ben-mlr.github.io/materials/course1/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
       <guid>https://ben-mlr.github.io/materials/course1/</guid>
@@ -33,7 +22,7 @@
     </item>
     
     <item>
-      <title>Session 2: Representing text into vectors </title>
+      <title>(2) Lecture 2: Representing text into vectors </title>
       <link>https://ben-mlr.github.io/materials/course2/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
       <guid>https://ben-mlr.github.io/materials/course2/</guid>
@@ -46,7 +35,7 @@
     </item>
     
     <item>
-      <title>Session 3: Deep Learning Methods for NLP</title>
+      <title>(3) Lecture 3: Deep Learning Methods for NLP</title>
       <link>https://ben-mlr.github.io/materials/course3/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
       <guid>https://ben-mlr.github.io/materials/course3/</guid>
@@ -59,7 +48,7 @@
     </item>
     
     <item>
-      <title>Session 4: Language Modeling</title>
+      <title>(4) Lecture 4: Language Modeling</title>
       <link>https://ben-mlr.github.io/materials/course4/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
       <guid>https://ben-mlr.github.io/materials/course4/</guid>
@@ -72,7 +61,7 @@
     </item>
     
     <item>
-      <title>Session 5: Sequence Labeling &amp; Classification</title>
+      <title>(5) Lecture 5: Sequence Labeling &amp; Classification</title>
       <link>https://ben-mlr.github.io/materials/course5/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
       <guid>https://ben-mlr.github.io/materials/course5/</guid>
@@ -85,7 +74,7 @@
     </item>
     
     <item>
-      <title>Session 6: Sequence Generation</title>
+      <title>(6) Lecture 6: Sequence Generation</title>
       <link>https://ben-mlr.github.io/materials/course6/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
       <guid>https://ben-mlr.github.io/materials/course6/</guid>

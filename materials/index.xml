@@ -13,18 +13,7 @@
     </image>
     
     <item>
-      <title>Lab 1: Introduction to textual data with Python</title>
-      <link>https://ben-mlr.github.io/materials/lab-1/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://ben-mlr.github.io/materials/lab-1/</guid>
-      <description>
-
-&lt;h1 id=&#34;introduction-to-textual-data-with-python&#34;&gt;Introduction to textual data with python&lt;/h1&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Lecture 1: The Basics of NLP</title>
+      <title>(1) Lecture 1: The Basics of NLP</title>
       <link>https://ben-mlr.github.io/materials/course1/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
       <guid>https://ben-mlr.github.io/materials/course1/</guid>
@@ -33,7 +22,7 @@
     </item>
     
     <item>
-      <title>Session 2: Representing text into vectors </title>
+      <title>(2) Lecture 2: Representing text into vectors </title>
       <link>https://ben-mlr.github.io/materials/course2/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
       <guid>https://ben-mlr.github.io/materials/course2/</guid>
@@ -46,7 +35,7 @@
     </item>
     
     <item>
-      <title>Session 3: Deep Learning Methods for NLP</title>
+      <title>(3) Lecture 3: Deep Learning Methods for NLP</title>
       <link>https://ben-mlr.github.io/materials/course3/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
       <guid>https://ben-mlr.github.io/materials/course3/</guid>
@@ -59,7 +48,7 @@
     </item>
     
     <item>
-      <title>Session 4: Language Modeling</title>
+      <title>(4) Lecture 4: Language Modeling</title>
       <link>https://ben-mlr.github.io/materials/course4/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
       <guid>https://ben-mlr.github.io/materials/course4/</guid>
@@ -72,7 +61,7 @@
     </item>
     
     <item>
-      <title>Session 5: Sequence Labeling &amp; Classification</title>
+      <title>(5) Lecture 5: Sequence Labeling &amp; Classification</title>
       <link>https://ben-mlr.github.io/materials/course5/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
       <guid>https://ben-mlr.github.io/materials/course5/</guid>
@@ -85,7 +74,7 @@
     </item>
     
     <item>
-      <title>Session 6: Sequence Generation</title>
+      <title>(6) Lecture 6: Sequence Generation</title>
       <link>https://ben-mlr.github.io/materials/course6/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
       <guid>https://ben-mlr.github.io/materials/course6/</guid>
@@ -94,6 +83,62 @@
 &lt;h1 id=&#34;sequence-generation&#34;&gt;Sequence Generation&lt;/h1&gt;
 
 &lt;p&gt;Many NLP tasks, such as Machine Translation or Summarization, require to predict sequences of tokens. In this lecture, we introduce the encoder-decoder and show how it can be used for sequence generation tasks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lab 1: Introduction to textual data with Python</title>
+      <link>https://ben-mlr.github.io/materials/lab-1/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://ben-mlr.github.io/materials/lab-1/</guid>
+      <description>&lt;p&gt;This lab introduces basics processing operations required for any NLP experiments. After introducing preprocessing tools for data cleaning and tokenization, we compute some descriptive statistics on textual data.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Google Colab Notebook Student Version &lt;a href=&#34;https://drive.google.com/file/d/1QTrPCSsazALd4nfb4NTvzAqr9frYE6KI/view?usp=sharing&#34; target=&#34;_blank&#34;&gt;🔗&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Full Handout Correction Google Colab Notebook &lt;a href=&#34;https://drive.google.com/file/d/1m8pW3Es-2I5mDdslz-NyBy_5016iVEPh/view?usp=sharing&#34; target=&#34;_blank&#34;&gt;🔗&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lab 2: Word Embeddings and their evaluation</title>
+      <link>https://ben-mlr.github.io/materials/lab-2/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://ben-mlr.github.io/materials/lab-2/</guid>
+      <description>&lt;p&gt;This lab explores representation learning techniques for words and documents. It explores models like tf-idf and Word2vec and develop quantitative and qualtiative evaluation methods.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Google Colab Notebook Student Version &lt;a href=&#34;https://drive.google.com/file/d/1QwmB0sT22ahwqITftWDaG6cXRS7lEicT/view?usp=sharing&#34; target=&#34;_blank&#34;&gt;🔗&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Full Handout Correction Google Colab Notebook &lt;a href=&#34;https://drive.google.com/file/d/1rzlL6BZ9kIWRTietl0jkBOPY4-kElmEL/view?usp=sharing&#34; target=&#34;_blank&#34;&gt;🔗&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lab 3-4: Sequence Labeling and Sequence Classification with Deep Learning Models</title>
+      <link>https://ben-mlr.github.io/materials/lab-3-4/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://ben-mlr.github.io/materials/lab-3-4/</guid>
+      <description>&lt;p&gt;This lab implements, trains and evaluates sequence classification and labeling models based on Recurrent Neural Networks and transformer deep-learning architecture.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Google Colab Notebook Student Version &lt;a href=&#34;https://drive.google.com/file/d/1bzmwJsshvwpK7C8upmbPdyhJ9KVMphYr/view?usp=sharing&#34; target=&#34;_blank&#34;&gt;🔗&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Full Handout Correction Google Colab Notebook [🔗]&lt;a href=&#34;https://drive.google.com/file/d/1EvaLnYRzBO1stvWv_q9IjmZr3tpGPfax/view?usp=sharing)&#34; target=&#34;_blank&#34;&gt;https://drive.google.com/file/d/1EvaLnYRzBO1stvWv_q9IjmZr3tpGPfax/view?usp=sharing)&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lab 5: Machine Translation</title>
+      <link>https://ben-mlr.github.io/materials/lab-5/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://ben-mlr.github.io/materials/lab-5/</guid>
+      <description>&lt;p&gt;This lab introduces introduces machine translation and implements a simple encoder-decoder architecture in pytorch.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Google Colab Notebook Student Version &lt;a href=&#34;https://drive.google.com/file/d/15Iyit9ynK1xClvxrrRO-DWCk-UWax3T9/view?usp=sharing&#34; target=&#34;_blank&#34;&gt;🔗&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Full Handout Correction Google Colab Notebook &lt;a href=&#34;https://drive.google.com/file/d/1zWJhZ4oWVDqSMdzoEO4RoPvoBE3O354p/view?usp=sharing&#34; target=&#34;_blank&#34;&gt;🔗&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
